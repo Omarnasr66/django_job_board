@@ -3,7 +3,7 @@ job :
     _ location
     _ job type
     _ description
-    _ published at
+    _ published_at
     _ vacancy
     _ salary
     _ category
